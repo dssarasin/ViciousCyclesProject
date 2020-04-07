@@ -1,0 +1,22 @@
+li{
+display:inline;    
+}
+body{margin: 5%;}
+nav{margin: 5%;}
+.Bike{
+    width: 25%;
+    height: 25%;
+    float: left;
+    padding-right:2%;
+}
+footer{
+    position:absolute;
+    bottom: 0;
+}
+.Logo{
+    width: 2%;
+    height: 2%;
+}
+*{
+    background-color: lightsalmon;
+}
